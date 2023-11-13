@@ -11,10 +11,10 @@ Simple MVC structure separating business logic and presentation
 Usage
 The main entry point is index.php which lists all records. From there you can navigate to:
 
-insert.php to insert new records
-userupdate.php to update existing records
-userdelete.php to remove records
-The Dbclass2.php class handles all database interactions and abstracts them into simple CRUD methods.
+1. insert.php to insert new records
+2. userupdate.php to update existing records
+3. userdelete.php to remove records
+4. The Dbclass2.php class handles all database interactions and abstracts them into simple CRUD methods.
 
 The frontend pages handle form submission and redirecting on success/failure.
 
@@ -26,8 +26,7 @@ Navigate to index.php to view the application
 Contributing
 Pull requests and issues are welcome for enhancements or bug fixes. Areas for improvement include:
 
-# Input validation and sanitization for security
-Pagination of results
+# Rana Mudassar Rasool
 Image/file uploading
 User authentication and authorization
 Exception handling
