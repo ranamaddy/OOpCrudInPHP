@@ -27,6 +27,4 @@ Contributing
 Pull requests and issues are welcome for enhancements or bug fixes. Areas for improvement include:
 
 # Rana Mudassar Rasool
-Image/file uploading
-User authentication and authorization
-Exception handling
+
